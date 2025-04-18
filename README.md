@@ -11,4 +11,5 @@ Please Follow Below Steps To Run This Code :-
 7. "venv\Scripts\activate"
 8. "pip install flask mysql-connector-python"
 9. "python app.py"
-10. After Following These Steps , Click On "http://127.0.0.1:5000" To See Live Website Output..
+10. After Following These Steps , Click On "http://127.0.0.1:5000"
+11. To See Live Website Output..
